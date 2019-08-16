@@ -1,5 +1,5 @@
-# cordova_tpl
-cordova_tpl
+# cordova_kotlin_tpl
+cordova_kotlin_tpl
 
 ## 安裝
 ```

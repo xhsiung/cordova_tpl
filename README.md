@@ -7,14 +7,16 @@ step1:
 建立android-studio kotlin 專案
 
 step2:
-修改專案資料
+fix project data
 $vim Makefile
-#專案名稱
+#change your project name
 pkname=myapp3  
-#package名
+
+#chnage your package name
 package=com.example.${pkname}
 ...
 
+step3:
 $make install
 enjoy your projects ~
 ```

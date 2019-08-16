@@ -1,6 +1,6 @@
 pkname=myapp2
 #projectDir=/home/alex/AndroidStudioProjects/${pkname}
-projectDir=`pwd`/${pkname}
+projectDir=`pwd`/../../${pkname}
 
 package=com.example.${pkname}
 #pkgdomain= $(package: ?.=/ )

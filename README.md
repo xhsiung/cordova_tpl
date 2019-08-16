@@ -4,7 +4,7 @@ cordova_kotlin_tpl
 ## 安裝
 ```
 step1: 
-建立android-studio kotlin 專案
+create your android-studio kotlin projects first
 
 step2:
 fix project data

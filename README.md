@@ -12,7 +12,7 @@ $vim Makefile
 #change your project name
 pkname=myapp3  
 
-#chnage your package name
+#change your package name
 package=com.example.${pkname}
 ...
 

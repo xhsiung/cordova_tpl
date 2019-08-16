@@ -1,4 +1,4 @@
-package com.example.myapp
+package PKGNAME
 
 import android.os.Bundle
 import org.apache.cordova.CordovaActivity

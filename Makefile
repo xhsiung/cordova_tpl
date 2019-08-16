@@ -3,7 +3,7 @@ pkname=myapp2
 projectDir=`pwd`/../../${pkname}
 
 package=com.example.${pkname}
-#pkgdomain= $(package: ?.=/ )
+#replace axsoho.com to axsoho/com
 pkgdomain=$(subst .,/,$(package))
 
 

@@ -20,3 +20,6 @@ step3:
 $make install
 enjoy your projects ~
 ```
+
+## view
+![image](https://raw.githubusercontent.com/xhsiung/cordova_tpl/master/imgs/android.png)

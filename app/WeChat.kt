@@ -1,4 +1,4 @@
-package com.example.myapp2
+package PKGNAME
 
 import android.util.Log
 import org.apache.cordova.CallbackContext

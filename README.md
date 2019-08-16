@@ -8,7 +8,6 @@ step1:
 
 step2:
 修改專案資料
-
 $vim Makefile
 #專案名稱
 pkname=myapp3  
@@ -17,6 +16,5 @@ package=com.example.${pkname}
 ...
 
 $make install
-
 enjoy your projects ~
 ```

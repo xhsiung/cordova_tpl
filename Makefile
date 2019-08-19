@@ -27,5 +27,8 @@ install:
 
 	@echo done
 
+plugin:
+	./build-cordova-plugin.py com.axsoho.hello.Hello greet
+
 test:
 	@echo ${projectDir}	
